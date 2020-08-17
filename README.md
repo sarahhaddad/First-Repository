@@ -1,2 +1,2 @@
 # First-Repository
-My very first one!
+I'm still trying to get the hang of github!
